@@ -1,0 +1,11 @@
+{
+     "android": {
+         "release": {
+             "keystore": "C:\\Release.Key",
+             "storePassword": "cotio999",
+             "alias": "shnek",
+             "password" : "cotio999",
+             "keystoreType": ""
+         }
+     }
+ }

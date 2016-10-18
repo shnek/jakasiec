@@ -1,0 +1,51 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-dialogs": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-dialogs"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-extension": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-extension@1.5.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-admobsdk": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-admobsdk"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-connectivity-monitor": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-connectivity-monitor"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-admobpro": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/floatinghotpot/cordova-admob-pro",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
